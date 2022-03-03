@@ -3,6 +3,7 @@
 English | [简体中文](README.zh-CN.md)
 
 [![GitHub tag](https://img.shields.io/github/tag/Leslie-Luo/vite-plugin-encoding.svg)](https://github.com/Leslie-Luo/vite-plugin-encoding/releases)
+[![NPM Downloads](https://img.shields.io/npm/dm/vite-plugin-encoding.svg?style=flat)](https://npmjs.org/package/vite-plugin-encoding)
 [![License](https://img.shields.io/github/license/Leslie-Luo/vite-plugin-encoding)](https://github.com/Leslie-Luo/vite-plugin-encoding/blob/master/LICENSE)
 
 Solve the problem that when the server is `Content-Type: text/html; charset=GB2312`, Chinese garbled characters in the `js` file introduced by the page cause page rendering failure.
